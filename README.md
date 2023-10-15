@@ -1,2 +1,1 @@
-# asset-management-system
-Manage your trading assets (Cryptocurrencies, Stocks..)
+This is a starter template for [Learn Next.js](https://nextjs.org/learn).
